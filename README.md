@@ -1,6 +1,8 @@
 # easyspacy
 
-Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale et en astrophysique.
+# Présentation du projet : 
+
+Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale et en astrophysique par Sarah Joiret et Léo Cotteleer.
 
 **Objectifs** : 
 - Comprendre facilement les concepts en aérospatiale et en astrophysique
@@ -29,7 +31,7 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
 
 ## Plan du site 
 
-- Accueil (= landing page)
+1) Accueil (= landing page)
   - Menu nav : Logo, accueil, capsules, news, à propos, contact, barre de recherche
       - Illustrations (avatar + fusée)
       - Qui est Easyspacy - description des avatars
@@ -49,26 +51,26 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
   - Footer : 
     - Lien vers la presse
     - Lien vers Instagram
-- Capsules : 
+2) Capsules : 
   - liste des capsules en mode galerie
   - Filtre (par thème - ordre chronologique)
-- News : 
+3) News : 
   - Liste des news
-- A propos :
+4) A propos :
   - Images des avatars
   - Description
   - Lien vers Instagram
-- Contact : 
+5) Contact : 
   - Formulaire
   - Nom
   - Adresse-mail?
   - Message (avis, thème(s) à aborder)
-- Page d’une capsule : 
+6) Page d’une capsule : 
   - Image(s)
   - Like (interaction)
   - Titre
   - Description
-- Page d’une news : 
+7) Page d’une news : 
   - Titre
   - Image
   - Description
