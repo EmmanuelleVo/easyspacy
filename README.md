@@ -74,7 +74,7 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
   - Description
 
 
-### Stratégie
+## Stratégie
 
 **footer** = pied-de-page\
 **CTA** = bouton\
