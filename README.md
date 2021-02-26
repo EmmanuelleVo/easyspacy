@@ -76,10 +76,10 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
 
 ### Stratégie
 
-**footer** = pied-de-page
-**CTA** = bouton
-**Landing page** = page sur laquelle l'internaute atterrit après avoir cliqué sur un lien.
-**Nav** = menu de navigation
+**footer** = pied-de-page\
+**CTA** = bouton\
+**Landing page** = page sur laquelle l'internaute atterrit après avoir cliqué sur un lien.\
+**Nav** = menu de navigation\
 
 Easy Spacy est une initiative sur Instagram visant la vulgarisation en aérospatiale et en astrophysique. Le public cible du site internet est les personnes n’ayant pas Instagram, en l’occurrence, les jeunes et surtout les personnes âgées. Les objectifs d’easyspacy sont de faire en sorte que les utilisateurs puissent comprendre facilement les concepts en aérospatiale et en astrophysique ainsi que d’avoir accès à des informations vérifiées.\
 Vu qu’on cible surtout les personnes âgées, on souhaite que le site soit **simple** et **intuitif**. C’est un site pour informer, on aimerait donc qu’il soit sérieux, par conséquent, utiliser une police sobre et ne pas utiliser trop de couleurs. J’utilise donc du blanc, du noir et de l’orange pastel (couleur du logo) ainsi que la police Open Sans pour le texte et la police Martel pour les titres. Il n'y a pas non plus de grosses animations, on a un effet d'hover sur les liens et un autre pour le hover et le clique sur les CTA.\
