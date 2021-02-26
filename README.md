@@ -90,7 +90,7 @@ Si il veut connaitre d’avantage easyspacy, il peut utiliser le nav -> A propos
 Si il veut connaitre contacter easyspacy, il peut utiliser le nav -> Contact, dans lequel il y a un formulaire à remplir avec le nom, l’email? et le message(avis, thèmes à aborder). En cliquant sur le CTA 'Envoyer', vous aurez une notification par mail.\
 S’il est intéressé par les news qu’easyspacy aborde, il peut aussi utiliser le nav -> News qui le dirigera avec toutes les news, ou bien il peut utiliser la section des news à l’accueil. Pour la page d’une certaine news, un ou des image(s) seront affichées, ainsi que leur titre et une description avec un CTA ‘suivant + titre de la news’ et ‘précédent + titre de la news’.
 
-
+En ce qui concerne l'administration, vous pourrez facilement rajouter des news et des capsules, que ce soit sur les pages des news/capsules (galerie - page d'une news/capsule) ou sur la page accueil.
 
 
 
