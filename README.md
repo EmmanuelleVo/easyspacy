@@ -31,7 +31,7 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
 
 ## Plan du site 
 
-1) Accueil (= landing page)
+1) **Accueil** (= landing page)
   - Menu nav : Logo, accueil, capsules, news, à propos, contact, barre de recherche
       - Illustrations (avatar + fusée)
       - Qui est Easyspacy - description des avatars
@@ -51,26 +51,26 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
   - Footer : 
     - Lien vers la presse
     - Lien vers Instagram
-2) Capsules : 
+2) **Capsules** : 
   - liste des capsules en mode galerie
   - Filtre (par thème - ordre chronologique)
-3) News : 
+3) **News** : 
   - Liste des news
-4) A propos :
+4) **A propos** :
   - Images des avatars
   - Description
   - Lien vers Instagram
-5) Contact : 
+5) **Contact** : 
   - Formulaire
   - Nom
   - Adresse-mail?
   - Message (avis, thème(s) à aborder)
-6) Page d’une capsule : 
+6) **Page d’une capsule** : 
   - Image(s)
   - Like (interaction)
   - Titre
   - Description
-7) Page d’une news : 
+7) **Page d’une news** : 
   - Titre
   - Image
   - Description
