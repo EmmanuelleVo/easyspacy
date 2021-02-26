@@ -23,11 +23,11 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
 - Avatars à retrouver
 - Accueil : Landing page avec les avatars et une petite présentation et ensuite les capsules
 
-### Moodboard
+## Moodboard
 
 [Milanotes](https://app.milanote.com/1LfnAG1saCj4hy?p=Q5GbfEnqhvU)
 
-### Plan du site 
+## Plan du site 
 
 - Accueil (= landing page)
   - Menu nav : Logo, accueil, capsules, news, à propos, contact, barre de recherche
