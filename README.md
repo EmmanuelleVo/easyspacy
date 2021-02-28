@@ -46,7 +46,7 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
 **footer** = pied-de-page\
 **CTA** = bouton\
 **Landing page** = page sur laquelle l'internaute atterrit après avoir cliqué sur un lien.\
-**Nav** = menu de navigation\
+**Nav** = menu de navigation
 
 1) **Accueil** (= landing page)
   - Menu nav : Logo, accueil, capsules, news, à propos, contact, barre de recherche ("Rechercher les capsules")
