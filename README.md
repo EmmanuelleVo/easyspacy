@@ -36,6 +36,11 @@ J’utilise donc du blanc, du noir et de l’orange pastel (couleur du logo) ain
 Il n'y a pas non plus de grosses animations, on a un effet d'hover sur les liens et un autre pour le hover et le clique sur les CTA.\
 Le site est un site simple, intuitif et sérieux mais moderne, sans trop surcharger l'utilisateur d'informations d'un coup.
 
+
+\
+Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pages des News/Capsules (liste - page d'une news/capsule) ou sur la page accueil.
+
+
 ## Plan du site
 
 **footer** = pied-de-page\
