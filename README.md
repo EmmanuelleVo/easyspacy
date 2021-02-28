@@ -92,10 +92,10 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
 5) **Contact** : 
   - Formulaire : 
     - Nom
+    - Prénom
     - Adresse-mail?
     - Message (avis, thème(s) à aborder, questions,...)
     - CTA 'envoyer' (vous aurez une notification lorsque l'utilisateur envoie sa requête)
-  - 
 6) **Page d’une capsule** : 
   - Titre
   - Like (interaction)
