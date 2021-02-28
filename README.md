@@ -13,7 +13,7 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
 
 **Souhaits** : 
 - Site simple et intuitif
-- Pas trop coloré
+- Pas trop coloré, surtout du blanc qui domine
 - Avoir une barre de recherche (uniquement pour les capsules)
 - Accessible par téléphone
 - Environnement dynamique (mouse hover effect)
@@ -66,17 +66,19 @@ Le site est un site simple, intuitif et sérieux mais moderne, sans trop surchar
     - Lien vers la presse
     - Lien vers Instagram
     - Privacy policy
+    - Addresse mail
 2) **Capsules** : 
   - Barre de recherche (Je sais qu'il y a déjà une barre de recherche dans le nav mais certains utilisateurs ne pensent pas à l'utiliser du coup, je mets la barre de recherche en évidence en la duplicant sur la page des capsules)
   - Filtre (par thème - ordre chronologique)
   - Liste des capsules mise en page comme une galerie
     -   Il y a une dizaine de capsules par page, avec des flèches 'précédent' et 'suivant', un style simple pour ne pas embrouiller l'utilisateur. 
-    -   Les capsules sont composées d'une image, d'un titre et d'une petite description
+    -   Les capsules sont composées d'une image, d'un titre et d'une petite description, et elles seront cliquables
+    -   Les capsules auront un style différent selon si elles font parties de l'aérospatiale ou de l'astrophysique
 3) **News** : 
   - Liste des news par ordre chronogique
     - Titre
-    - Image?
-    - Petite description
+    - Image
+    - Petite description + CTA 'Lire plus'
 4) **A propos** :
   - Images des avatars
   - Description
@@ -86,18 +88,18 @@ Le site est un site simple, intuitif et sérieux mais moderne, sans trop surchar
   - Formulaire : 
     - Nom
     - Adresse-mail?
-    - Message (avis, thème(s) à aborder)
+    - Message (avis, thème(s) à aborder, questions,...)
     - CTA 'envoyer' (vous aurez une notification lorsque l'utilisateur envoie sa requête)
   - 
 6) **Page d’une capsule** : 
-  - Image(s)
-  - Like (interaction)
   - Titre
+  - Like (interaction)
+  - Images (les images et le texte seront divisés, de sorte que nous n'ayons pas un gros pavé de texte)
   - Description
   - CTA ‘suivant + titre de la capsule’ et ‘précédent + titre de la capsule’.
 7) **Page d’une news** : 
   - Titre
-  - Image
+  - Image(s)
   - Description
   - CTA ‘suivant + titre de la news’ et ‘précédent + titre de la news’
 
