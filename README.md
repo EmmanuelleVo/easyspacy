@@ -33,7 +33,7 @@ Easy Spacy : Initiative sur Instagram visant la vulgarisation en aérospatiale e
 Vu qu’on cible surtout les personnes âgées, on souhaite que le site soit **simple** et **intuitif**. \
 C’est un site pour informer, on aimerait donc qu’il soit sérieux, par conséquent, utiliser une police sobre et ne pas utiliser trop de couleurs.
 J’utilise donc du blanc, du noir et de l’orange pastel (couleur du logo) ainsi que la police Open Sans pour le texte et la police Martel pour les titres.
-Il n'y a pas non plus de grosses animations, on a un effet d'hover sur les liens et un autre pour le hover et le clique sur les CTA.\
+Il n'y a pas non plus de grosses animations, on a un effet d'hover sur les liens et un autre pour le hover et le clique sur les boutons.\
 Le site est un site simple, intuitif et sérieux mais moderne, sans trop surcharger l'utilisateur d'informations d'un coup.
 
 
@@ -73,7 +73,9 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
     - Lien vers Instagram
     - Privacy policy
     - Addresse mail
-    - Un lien vers la page contact ("Un avis, une suggestion? Contactez-nous") 
+    - Un lien vers la page contact ("Un avis, une suggestion? Contactez-nous")
+    - Lien vers un Kit presse 
+      - Cette page kit presse contient une petite description d'easyspacy, les liens vers les réseaux sociaux et page web, vos coordonnées (email ou autre), un historique des différentes infos concernant vous et easyspacy (capsules,...)
 2) **Capsules** : 
   - Barre de recherche (Je sais qu'il y a déjà une barre de recherche dans le nav mais certains utilisateurs ne pensent pas à l'utiliser du coup, je mets la barre de recherche en évidence en la duplicant sur la page des capsules)
   - Filtre (par thème - ordre chronologique)
