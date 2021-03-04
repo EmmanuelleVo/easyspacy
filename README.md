@@ -49,29 +49,31 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
 **Nav** = menu de navigation
 
 1) **Accueil** (= landing page)
-  - Menu nav : Logo, accueil, capsules, news, à propos, contact, barre de recherche ("Rechercher les capsules")
+  - Menu nav : Logo(cliquable redirigeant vers la page d'accueil), accueil, capsules, news, à propos, contact, barre de recherche ("Rechercher les capsules")
   - Section de présentation :
       - Illustrations (avatar + fusée)
       - Qui est EasySpacy - description des avatars (nom + job)
       - Une petite description d'EasySpacy
       - À gauche, une petite animation simple pour montrer qu’on peut scroll et donc inciter l'utilisateur à scroll et l'informer du scroll possible.
-  - Section des capsules : (les capsules sont avant les news car l'objectif de l'utilisateur est de s'informer via les capsules)
-    - Titre de la section + CTA ‘voir toutes les capsules’
+  - Section des capsules : (les capsules sont avant les news car l'objectif principal de l'utilisateur est de s'informer via les capsules)
+    - Titre de la section + CTA ‘voir toutes les capsules’ à côté
     - Slider avec les capsules les plus récentes :
       - Titre
-      - Image
+      - Image (image cliquable qui redirige donc vers la page de la capsule cliquée)
       - Petite description
-  - Section des news : (Cette section aura presque le même style/layout que celle des capsules, ce qui est répétitif mais sera intuitif pour l'utilisateur)
-    - Titre de la section + CTA ‘voir toutes les news’
-    - 2 ou 3 news :
+      - Une petite fusée d'une couleur selon si la capsule parlant de l'aérospatial ou de l'astrophysique
+  - Section des news : (Cette section aura presque le même style/layout que celle des capsules, ce qui est répétitif mais sera plus intuitif pour l'utilisateur)
+    - Titre de la section + CTA ‘voir toutes les news’ à côté
+    - 2 ou 3 news (les plus récentes):
       - Titre
       - Petite description
-      - Photo?
+      - Image (image cliquable qui redirige donc vers la page de la news cliquée)
   - Footer : 
     - Lien vers la presse
     - Lien vers Instagram
     - Privacy policy
     - Addresse mail
+    - Un lien vers la page contact ("Un avis, une suggestion? Contactez-nous") 
 2) **Capsules** : 
   - Barre de recherche (Je sais qu'il y a déjà une barre de recherche dans le nav mais certains utilisateurs ne pensent pas à l'utiliser du coup, je mets la barre de recherche en évidence en la duplicant sur la page des capsules)
   - Filtre (par thème - ordre chronologique)
@@ -107,4 +109,10 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
   - Image(s)
   - Description
   - CTA ‘suivant + titre de la news’ et ‘précédent + titre de la news’
+
+
+
+
+
+
 
