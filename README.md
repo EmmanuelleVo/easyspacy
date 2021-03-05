@@ -113,7 +113,7 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
   - CTA ‘suivant + titre de la news’ et ‘précédent + titre de la news’
 
 
-**Cheminement de l'utilisateur**
+**Cheminement de l'utilisateur** \
 Bien sûr l'utilisateur peut navigueur entre les pages via le menu de navigation mais il est important qu'il puisse navigueur via des boutons et liens dans la page elle-même.\ 
 Dans l'Accueil, il peut vite arriver à son objectif principal, c'est-à-dire s'informer via les capsules, grâce aux capsules récentes mais aussi grâce au bouton 'voir toutes les capsules'. De plus, sur la page d'Accueil, il peut aussi voir les news via le bouton 'voir toutes les news' et l'image cliquable d'une des news les plus récentes. Dans le footer, il y a un lien vers la page Contact s'il souhaite vous contacter. \
 L'utilisateur peut aussi atteindre la page des News via la biographie où il s'y trouve un bouton afin que l'utilisateur en sache d'avantage sur easyspacy. Bien sûr, les pages d'une capsule et d'une news ont des boutons 'suivant' et 'précédent' pour inciter l'utilisateur à continuer de lire différentes capsules et news.
