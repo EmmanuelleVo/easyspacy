@@ -51,13 +51,14 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
 1) **Accueil** (= landing page)
   - Menu nav : Logo(cliquable redirigeant vers la page d'accueil), accueil, capsules, news, à propos, contact, barre de recherche ("Rechercher les capsules")
   - Section de présentation :
-      - Illustrations (avatar + fusée)
+      - Illustrations (avatars)
       - Qui est EasySpacy - description des avatars (nom + job)
       - Une petite description d'EasySpacy
       - À gauche, une petite animation simple pour montrer qu’on peut scroll et donc inciter l'utilisateur à scroll et l'informer du scroll possible.
   - Section des capsules : (les capsules sont avant les news car l'objectif principal de l'utilisateur est de s'informer via les capsules)
     - Titre de la section + CTA ‘voir toutes les capsules’ à côté
     - Slider avec les capsules les plus récentes :
+      - !!! Cela dépend des images, si elles n'ont pas de description 
       - Titre
       - Image (image cliquable qui redirige donc vers la page de la capsule cliquée)
       - Petite description
@@ -78,11 +79,11 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
       - Cette page kit presse contient une petite description d'easyspacy, les liens vers les réseaux sociaux et page web, vos coordonnées (email ou autre), un historique des différentes infos concernant vous et easyspacy (capsules,...)
 2) **Capsules** : 
   - Barre de recherche (Je sais qu'il y a déjà une barre de recherche dans le nav mais certains utilisateurs ne pensent pas à l'utiliser du coup, je mets la barre de recherche en évidence en la duplicant sur la page des capsules)
-  - Filtre (par thème - ordre chronologique)
+  - Filtre (aérospatiale, astrophysique, autres)
   - Liste des capsules mise en page comme une galerie
     -   Il y a une dizaine de capsules par page, avec des flèches 'précédent' et 'suivant', un style simple pour ne pas embrouiller l'utilisateur. 
-    -   Les capsules sont composées d'une image, d'un titre et d'une petite description, et elles seront cliquables
-    -   Les capsules auront un style différent selon si elles font parties de l'aérospatiale ou de l'astrophysique
+    -   Les capsules sont composées d'une image, (d'un titre et d'une petite description,) et elles seront cliquables
+    -   Les capsules auront un style(couleur) différent selon si elles font parties de l'aérospatiale ou de l'astrophysique ou autres
 3) **News** : 
   - Liste des news par ordre chronogique
     - Titre
@@ -94,23 +95,26 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
   - Lien vers Instagram
   - CTA vers les News (pour en savoir d'avantage sur EasySpacy)
 5) **Contact** : 
-  - Formulaire : 
+ - Une phrase pour vous contacter sur votre email ou par instagram si l'utilisateur ne veut pas du formulaire de contact
+ - Formulaire : 
     - Nom
     - Prénom
-    - Adresse-mail?
+    - Adresse-mail
     - Message (avis, thème(s) à aborder, questions,...)
     - CTA 'envoyer' (vous aurez une notification lorsque l'utilisateur envoie sa requête)
 6) **Page d’une capsule** : 
   - Titre
-  - Like (interaction)
-  - Images (les images et le texte seront divisés, de sorte que nous n'ayons pas un gros pavé de texte)
-  - Description
+  - Date
+  - Like (interaction)N
+  - Images (slide?)
+  - Description en bas
   - CTA ‘suivant + titre de la capsule’ et ‘précédent + titre de la capsule’.
 7) **Page d’une news** : 
   - Titre
   - Image(s)
   - Description
-  - CTA ‘suivant + titre de la news’ et ‘précédent + titre de la news’
+  - Commentaires (formulaire + les commentaires des autres utilisateurs)
+  - Autres capsules similaires (images cliquables d'autres capsules)
 
 
 **Cheminement de l'utilisateur** \
