@@ -90,10 +90,15 @@ Vous pouvez facilement rajouter des news et des capsules, que ce soit sur les pa
     - Image
     - Petite description + CTA 'Lire plus'
 4) **A propos** :
-  - Images des avatars
-  - Description
-  - Lien vers Instagram
-  - CTA vers les News (pour en savoir d'avantage sur EasySpacy)
+  - Image EasySpacy
+    - Description
+    - Lien vers Instagram
+    - CTA vers les News (pour en savoir d'avantage sur EasySpacy)
+  - Image d'un avatar (Léo)
+    - Description
+  - Image d'un avatar (Sarah)
+    - Description
+  
 5) **Contact** : 
  - Une phrase pour vous contacter sur votre email ou par instagram si l'utilisateur ne veut pas du formulaire de contact
  - Formulaire : 
