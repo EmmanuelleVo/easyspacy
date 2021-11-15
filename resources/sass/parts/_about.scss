@@ -1,0 +1,40 @@
+.about-page {
+  margin-bottom: 10vh;
+  .contact__title {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    text-transform: uppercase;
+  }
+
+  .about {
+    .about__members {
+      .title {
+
+      }
+      .content {
+
+      }
+      .content:before {
+        //content: url("http://localhost:8888/wordpress-easyspacy/wp-content/uploads/2021/09/avatar_Sarah-copie.png");
+      }
+    }
+    .about__instagram {
+      text-decoration: underline;
+      font-weight: bold;
+      border: none;
+      display: block;
+      padding-left: 0;
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+    .about__news {
+
+    }
+  }
+  svg {
+    z-index: -1;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+  }
+}

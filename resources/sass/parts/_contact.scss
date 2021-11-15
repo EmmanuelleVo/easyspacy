@@ -1,0 +1,57 @@
+.contact-page {
+  margin-bottom: 10vh;
+  &__title {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    text-transform: uppercase;
+  }
+  .contact {
+    &__container {
+      .contact__ill {
+        .contact__bubble {
+          .contact__bubble-content {
+
+          }
+        }
+        .contact__avatars {
+          .contact__avatars-img {
+            width: 30vw;
+          }
+        }
+      }
+    }
+    &__form {
+      form {
+        //display: flex;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        grid-column-gap: 10vw;
+        grid-row-gap: 1em;
+        grid-template-areas:  'nom area'
+                        'prenom area'
+      'mail '
+      'bouton ';
+      }
+      p>p {
+        background-color: blue;
+      }
+      p>p>p {
+
+      }
+      p>p>p>p {
+        background-color: blue;
+
+      }
+      p>p>p>p>p {
+
+      }
+      p {
+        //margin: 1em 1em 1em 0;
+        label {
+          font-weight: bold;
+        }
+      }
+    }
+
+  }
+}

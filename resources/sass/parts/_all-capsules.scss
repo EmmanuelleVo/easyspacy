@@ -1,0 +1,22 @@
+.capsules-all {
+  margin: 2rem 1rem;
+  h2 {
+    margin-bottom: 1rem;
+  }
+  .capsules-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    .capsule {
+      margin-bottom: 1rem;
+
+      .capsule__img {
+        max-width: 500px;
+      }
+    }
+  }
+
+
+
+}

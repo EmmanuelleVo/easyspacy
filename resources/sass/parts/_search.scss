@@ -1,0 +1,31 @@
+.search-page {
+  min-height: 100vh;
+  margin-bottom: 10vh;
+  &__title {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    text-transform: uppercase;
+
+  }
+  .search__form {
+
+  }
+  &__result-title {
+    font-weight: bold;
+    .search-page__title-search {
+
+    }
+  }
+
+  .search-list {
+    &__title {
+
+
+    }
+  }
+
+  .search-page__error {
+
+  }
+
+}
